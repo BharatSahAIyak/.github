@@ -74,10 +74,20 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 
 ### Training Pipeline
 
-[ASR-ngram correction]()
+| Model/Task                | Training|
+|-------------------------------|---------|
+| ngram correction               | [KenLM](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |
+| spellcheck          | [spellcheck](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py) |
 
 ### FineTuning Pipelines
 - [Autotune](https://github.com/BharatSahAIyak/autotune) | Coming Soon
+
+| Model/Task                | Fine-tuning|
+|-------------------------------|---------|
+|  Named Entity recognition              | [distilBERT](https://github.com/BharatSahAIyak/NER_training) |
+| Classification | [BERT based models](https://github.com/BharatSahAIyak/Classifier_training) |
+| Embedding/Reranker | [ColBERT](https://github.com/BharatSahAIyak/colbert-finetune) |
+
 
 ### Chip / GPU / PaaS API
 
