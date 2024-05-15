@@ -27,6 +27,27 @@
 - [State Machine Spec - XState](https://stately.ai/docs/xstate)
 - [Logic Definition](https://github.com/BharatSahAIyak/orchestrator/blob/dev/src/xstate/xstate.factory.ts)
 
+```
+Generic Transformers
+  Code Runner Transformer
+  HTTP GET Transformer
+  HTTP POST Transformer
+  Field Setter Transformer
+  LLM Transformer
+  Neural Coreference Transformer
+  SQL Query Builder Transformer
+  Translate Transformer
+If-Else Transformers
+  Random Binary Transformer
+  Doc Retriever Transformer
+Retry Transformers
+  Simple Retry Transformer
+Switch-Case Transformers
+  Label Classifier Transformer
+State Restore Transformers
+  User Feedback Loop Transformer
+```
+
 ### Generative Recipe Agents
 > Coming Soon
 
