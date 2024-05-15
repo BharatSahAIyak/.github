@@ -2,23 +2,39 @@
 
 <img width="1304" alt="Screenshot 2024-05-14 at 9 56 15 PM" src="https://github.com/BharatSahAIyak/issues/assets/7413816/7ea7ce19-8e7e-405d-8220-42649c617c37">
 
+## Applications
 
-## Document Service
+### Apps, Copilots, Bots
+[KSAI](https://github.com/BharatSahAIyak/KISAI-bot)
+[BHASAI Admin](https://github.com/BharatSahAIyak/admin)
 
-[Status Webhook Standards Spec](https://github.com/BharatSahAIyak/standards/issues/13)
+### UI Framework/Generator
 
-[Document Service](https://github.com/BharatSahAIyak/document-service)
+[App Framework - Stencil](https://github.com/SamagraX-Stencil/stencil-ui/)
+[Deployer Service](https://github.com/BharatSahAIyak/deployer)
+[Config Manager](https://github.com/BharatSahAIyak/deployer/tree/dev/src/modules/external-config)
 
-[YT Parser](https://github.com/BharatSahAIyak/yt-parser) | [PDF Parser](https://github.com/BharatSahAIyak/pdf-parser) | [Excel Parser](https://github.com/BharatSahAIyak/excel-parser)
+### RLHF
 
-## Dataset Service
+## Recipe
 
-[SQL LLM Transformer](https://github.com/BharatSahAIyak/packages/blob/fb8d1d238ac61d80775ec4a311a8a5d6f69f594d/packages/transformers/src/modules/generic/sql_query_builder/sqlLLM.transformer.ts)
+### Recipe Runtime
 
-[Dataset Service](https://github.com/BharatSahAIyak/dataset-service)
+[XState](https://stately.ai/docs/xstate)
+[Logic Definition](https://github.com/BharatSahAIyak/orchestrator/blob/dev/src/xstate/xstate.factory.ts)
 
-### Model feedback and improvement 
+### Generative Recipe Agents
+> Coming Soon
 
+### Recipe Builder
+[Flowise UI](https://github.com/BharatSahAIyak/flowise)
+
+## AI Models
+
+### Foundational Models
+[Transformer Node]()
+
+### Domain and Task Models
 | Model/Task                | Inference   | Training / Fine-tuning     | 
 |-------------------------------|---------|---------------|
 | ASR                           | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/asr/fairseq_mms) |Not supported yet |
@@ -31,4 +47,27 @@
 | Reranker - bge                      | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/rerankers/bge_base/local)| Not Supported yet  | 
 | Classifier | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_classification) | [Supported](https://github.com/BharatSahAIyak/Classifier_training)  |
 
+## Datasets
 
+### I/O Plugins
+[Status Webhook Standards Spec](https://github.com/BharatSahAIyak/standards/issues/13)
+[YT Parser](https://github.com/BharatSahAIyak/yt-parser) | [PDF Parser](https://github.com/BharatSahAIyak/pdf-parser) | [Excel Parser](https://github.com/BharatSahAIyak/excel-parser)
+
+
+### Document Service
+
+[Document Service](https://github.com/BharatSahAIyak/document-service)
+
+### Dataset Service
+
+[Dataset Service](https://github.com/BharatSahAIyak/dataset-service)
+
+## AIOps
+
+### Training Pipeline
+
+### FineTuning Pipelines
+
+### Chip / GPU / PaaS API
+
+[Infra Setup]()
