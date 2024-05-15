@@ -2,7 +2,6 @@
 
 <img width="1305" alt="BHASAI Arch" src="https://github.com/BharatSahAIyak/.github/assets/7413816/58724bdc-9a4c-4076-910a-457b80f008b8">
 
-
 ## Applications
 
 ### Apps, Copilots, Bots
@@ -26,6 +25,7 @@
 - [Runtime](https://github.com/BharatSahAIyak/orchestrator)
 - [State Machine Spec - XState](https://stately.ai/docs/xstate)
 - [Logic Definition](https://github.com/BharatSahAIyak/orchestrator/blob/dev/src/xstate/xstate.factory.ts)
+- [Transformer Node](https://github.com/BharatSahAIyak/packages/tree/main/packages/transformers/src/modules/generic/llm)
 
 ### Generative Recipe Agents
 > Coming Soon
@@ -67,8 +67,8 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 - [Syntheic Dataset Generation/Management](https://github.com/BharatSahAIyak/autotune)
 
 ### Knowledge Graphs
-- [KG Generation through Semantic Text](https://github.com/BharatSahAIyak/knowledge-graph/tree/main-ts)
-- [KG Visualizer](https://github.com/BharatSahAIyak/kg-markdown-enhancer)
+- [KG Generation through Semantic Text](https://github.com/BharatSahAIyak/knowledge-graph/tree/main-ts) | Coming Soon
+- [KG Visualizer](https://github.com/BharatSahAIyak/kg-markdown-enhancer) | Coming Soon
 
 ## AIOps
 
@@ -77,7 +77,7 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 [ASR-ngram correction]()
 
 ### FineTuning Pipelines
-- [Autotune](https://github.com/BharatSahAIyak/autotune)
+- [Autotune](https://github.com/BharatSahAIyak/autotune) | Coming Soon
 
 ### Chip / GPU / PaaS API
 
