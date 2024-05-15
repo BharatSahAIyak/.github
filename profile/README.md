@@ -1,6 +1,7 @@
 # Bharat SahAIyak
 
-<img width="1304" alt="Screenshot 2024-05-14 at 9 56 15 PM" src="https://github.com/BharatSahAIyak/issues/assets/7413816/7ea7ce19-8e7e-405d-8220-42649c617c37">
+<img width="1305" alt="BHASAI Arch" src="https://github.com/BharatSahAIyak/.github/assets/7413816/58724bdc-9a4c-4076-910a-457b80f008b8">
+
 
 ## Applications
 
