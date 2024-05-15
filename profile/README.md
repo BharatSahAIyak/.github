@@ -55,14 +55,15 @@
 ### I/O Plugins
 - [Status Webhook Standards Spec](https://github.com/BharatSahAIyak/standards/issues/13)
 - [YT Parser](https://github.com/BharatSahAIyak/yt-parser) | [PDF Parser](https://github.com/BharatSahAIyak/pdf-parser) | [Excel Parser](https://github.com/BharatSahAIyak/excel-parser)
-
-### Document Service
-
 - [Document Service](https://github.com/BharatSahAIyak/document-service)
-
-### Dataset Service
-
 - [Dataset Service](https://github.com/BharatSahAIyak/dataset-service)
+
+### Dataset Builder Plugins
+- [Syntheic Dataset Generation/Management](https://github.com/BharatSahAIyak/autotune)
+
+### Knowledge Graphs
+- [KG Generation through Semantic Text](https://github.com/BharatSahAIyak/knowledge-graph/tree/main-ts)
+- [KG Visualizer](https://github.com/BharatSahAIyak/kg-markdown-enhancer)
 
 ## AIOps
 
