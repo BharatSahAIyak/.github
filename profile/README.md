@@ -5,37 +5,37 @@
 ## Applications
 
 ### Apps, Copilots, Bots
-[KSAI](https://github.com/BharatSahAIyak/KISAI-bot)
-[BHASAI Admin](https://github.com/BharatSahAIyak/admin)
+- [KSAI](https://github.com/BharatSahAIyak/KISAI-bot)
+- [BHASAI Admin](https://github.com/BharatSahAIyak/admin)
 
 ### UI Framework/Generator
 
-[App Framework - Stencil](https://github.com/SamagraX-Stencil/stencil-ui/)
-[Deployer Service](https://github.com/BharatSahAIyak/deployer)
-[Config Manager](https://github.com/BharatSahAIyak/deployer/tree/dev/src/modules/external-config)
+- [App Framework - Stencil](https://github.com/SamagraX-Stencil/stencil-ui/)
+- [Deployer Service](https://github.com/BharatSahAIyak/deployer)
+- [Config Manager](https://github.com/BharatSahAIyak/deployer/tree/dev/src/modules/external-config)
 
 ### RLHF
-[v1 RFC - coming soon on Admin](https://github.com/BharatSahAIyak/ai-tools/issues/25) - Sprint 2411
-[Dictionary]()
+- [v1 RFC - coming soon on Admin](https://github.com/BharatSahAIyak/ai-tools/issues/25) - Sprint 2411
+- [Dictionary]()
 
 ## Recipe
 
 ### Recipe Runtime
 
-[Runtime](https://github.com/BharatSahAIyak/orchestrator)
-[State Machine Spec - XState](https://stately.ai/docs/xstate)
-[Logic Definition](https://github.com/BharatSahAIyak/orchestrator/blob/dev/src/xstate/xstate.factory.ts)
+- [Runtime](https://github.com/BharatSahAIyak/orchestrator)
+- [State Machine Spec - XState](https://stately.ai/docs/xstate)
+- [Logic Definition](https://github.com/BharatSahAIyak/orchestrator/blob/dev/src/xstate/xstate.factory.ts)
 
 ### Generative Recipe Agents
 > Coming Soon
 
 ### Recipe Builder
-[Flowise UI](https://github.com/BharatSahAIyak/flowise)
+- [Flowise UI](https://github.com/BharatSahAIyak/flowise)
 
 ## AI Models
 
 ### Foundational Models
-[Transformer Node]()
+- [Transformer Node]()
 
 ### Domain and Task Models
 | Model/Task                | Inference   | Training / Fine-tuning     | 
@@ -53,16 +53,16 @@
 ## Datasets
 
 ### I/O Plugins
-[Status Webhook Standards Spec](https://github.com/BharatSahAIyak/standards/issues/13)
-[YT Parser](https://github.com/BharatSahAIyak/yt-parser) | [PDF Parser](https://github.com/BharatSahAIyak/pdf-parser) | [Excel Parser](https://github.com/BharatSahAIyak/excel-parser)
+- [Status Webhook Standards Spec](https://github.com/BharatSahAIyak/standards/issues/13)
+- [YT Parser](https://github.com/BharatSahAIyak/yt-parser) | [PDF Parser](https://github.com/BharatSahAIyak/pdf-parser) | [Excel Parser](https://github.com/BharatSahAIyak/excel-parser)
 
 ### Document Service
 
-[Document Service](https://github.com/BharatSahAIyak/document-service)
+- [Document Service](https://github.com/BharatSahAIyak/document-service)
 
 ### Dataset Service
 
-[Dataset Service](https://github.com/BharatSahAIyak/dataset-service)
+- [Dataset Service](https://github.com/BharatSahAIyak/dataset-service)
 
 ## AIOps
 
@@ -72,6 +72,6 @@
 
 ### Chip / GPU / PaaS API
 
-[Docker Installation](https://github.com/BharatSahAIyak/docker-bhasai)
-[Infra Setup - Terraform](https://github.com/BharatSahAIyak/infra)
-[GPU/CPU Split by the control plane](https://github.com/BharatSahAIyak/docker-bhasai/blob/dev/ai-tools/generate.sh) | [Config](https://github.com/BharatSahAIyak/ai-tools/blob/dev/config.json)
+- [Docker Installation](https://github.com/BharatSahAIyak/docker-bhasai)
+- [Infra Setup - Terraform](https://github.com/BharatSahAIyak/infra)
+- [GPU/CPU Split by the control plane](https://github.com/BharatSahAIyak/docker-bhasai/blob/dev/ai-tools/generate.sh) | [Config](https://github.com/BharatSahAIyak/ai-tools/blob/dev/config.json)
