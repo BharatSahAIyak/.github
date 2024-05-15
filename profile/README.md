@@ -19,7 +19,7 @@
 - [v1 RFC - coming soon on Admin](https://github.com/BharatSahAIyak/ai-tools/issues/25) - Sprint 2411
 - [Dictionary]()
 
-## Recipe
+## Recipes
 
 ### Recipe Runtime
 
