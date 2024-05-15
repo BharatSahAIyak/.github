@@ -15,12 +15,15 @@
 [Config Manager](https://github.com/BharatSahAIyak/deployer/tree/dev/src/modules/external-config)
 
 ### RLHF
+[v1 RFC - coming soon on Admin](https://github.com/BharatSahAIyak/ai-tools/issues/25) - Sprint 2411
+[Dictionary]()
 
 ## Recipe
 
 ### Recipe Runtime
 
-[XState](https://stately.ai/docs/xstate)
+[Runtime](https://github.com/BharatSahAIyak/orchestrator)
+[State Machine Spec - XState](https://stately.ai/docs/xstate)
 [Logic Definition](https://github.com/BharatSahAIyak/orchestrator/blob/dev/src/xstate/xstate.factory.ts)
 
 ### Generative Recipe Agents
@@ -53,7 +56,6 @@
 [Status Webhook Standards Spec](https://github.com/BharatSahAIyak/standards/issues/13)
 [YT Parser](https://github.com/BharatSahAIyak/yt-parser) | [PDF Parser](https://github.com/BharatSahAIyak/pdf-parser) | [Excel Parser](https://github.com/BharatSahAIyak/excel-parser)
 
-
 ### Document Service
 
 [Document Service](https://github.com/BharatSahAIyak/document-service)
@@ -70,4 +72,6 @@
 
 ### Chip / GPU / PaaS API
 
-[Infra Setup]()
+[Docker Installation](https://github.com/BharatSahAIyak/docker-bhasai)
+[Infra Setup - Terraform](https://github.com/BharatSahAIyak/infra)
+[GPU/CPU Split by the control plane](https://github.com/BharatSahAIyak/docker-bhasai/blob/dev/ai-tools/generate.sh) | [Config](https://github.com/BharatSahAIyak/ai-tools/blob/dev/config.json)
