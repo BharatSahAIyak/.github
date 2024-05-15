@@ -67,8 +67,8 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 - [Syntheic Dataset Generation/Management](https://github.com/BharatSahAIyak/autotune)
 
 ### Knowledge Graphs
-- [KG Generation through Semantic Text](https://github.com/BharatSahAIyak/knowledge-graph/tree/main-ts)
-- [KG Visualizer](https://github.com/BharatSahAIyak/kg-markdown-enhancer)
+- [KG Generation through Semantic Text](https://github.com/BharatSahAIyak/knowledge-graph/tree/main-ts) | Coming Soon
+- [KG Visualizer](https://github.com/BharatSahAIyak/kg-markdown-enhancer) | Coming Soon
 
 ## AIOps
 
@@ -85,6 +85,8 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 |  Named Entity recognition              | [distilBERT](https://github.com/BharatSahAIyak/NER_training) |
 | Classification | [BERT based models](https://github.com/BharatSahAIyak/Classifier_training) |
 | Embedding/Reranker | [ColBERT](https://github.com/BharatSahAIyak/colbert-finetune) |
+
+- [Autotune (Sagemaker Alternative OS)](https://github.com/BharatSahAIyak/autotune) | Coming Soon
 
 ### Chip / GPU / PaaS API
 
