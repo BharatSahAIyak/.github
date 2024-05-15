@@ -30,13 +30,15 @@
 ### Generative Recipe Agents
 > Coming Soon
 
+- [Existing Nodes](https://bharatsahaiyak-docs.vercel.app/developer_guide/guides/transformers/supported_transformers)
+
 ### Recipe Builder
 - [Flowise UI](https://github.com/BharatSahAIyak/flowise)
 
 ## AI Models
 
 ### Foundational Models
-- [Transformer Node]()
+- [Transformer Node](https://github.com/BharatSahAIyak/packages/tree/main/packages/transformers/src/modules/generic/llm)
 
 ### Domain and Task Models
 | Model/Task                | Inference   |
