@@ -40,15 +40,18 @@
 ### Domain and Task Models
 | Model/Task                | Inference   |
 |-------------------------------|---------|
-| ASR                           | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/asr/fairseq_mms) |
-| ASR - ngram correction               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |
-| Translate (Azure,GCP,Bhashini)  | [External service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_translation/) | 
-| Spell check | [Self](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)| 
-| Named Entity recognition               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/ner/agri_ner_akai)| 
+| ASR                           | [MMS](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/asr/fairseq_mms) |
+| ASR - ngram correction               | [KenLM](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |
+| Translate (Azure,GCP,Bhashini)  | [External services](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_translation/) | 
+| Spell check | [symspell](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)| 
+| Named Entity recognition               | [distilbert-finetuned](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/ner/agri_ner_akai)| 
 | Embedding (self-hosted)     | [Colbert](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/colbert/local) , [bge](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/bge-small/local), [instructor](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/instructor)| 
 | Embedding - OpenAI                         | [External Service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/openai)|
-| Reranker - bge                      | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/rerankers/bge_base/local)| 
-| Classifier | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_classification) | 
+| Reranker  | [bge](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/rerankers/bge_base/local)| 
+| Classifier | [BERT,mobileBERT,DeBERTa](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_classification) | 
+Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/chunking/MPNet/local) |
+| Neural coreference | [FCoref](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/coref/fcoref) |
+| Language detection | [Bhashini](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_lang_detection/bhashini/remote) | 
 
 ## Datasets
 
