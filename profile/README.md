@@ -41,9 +41,9 @@
 | Model/Task                | Inference   |
 |-------------------------------|---------|
 | ASR                           | [MMS](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/asr/fairseq_mms) |
-| ASR - ngram correction               | [KenLM](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |
+| ASR - ngram correction (agri-Odia)              | [KenLM](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |
 | Translate (Azure,GCP,Bhashini)  | [External services](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_translation/) | 
-| Spell check | [symspell](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)| 
+| Spell check (agri-Odia,English) | [symspell](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)| 
 | Named Entity recognition               | [distilbert-finetuned](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/ner/agri_ner_akai)| 
 | Embedding (self-hosted)     | [Colbert](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/colbert/local) , [bge](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/bge-small/local), [instructor](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/instructor)| 
 | Embedding - OpenAI                         | [External Service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/openai)|
@@ -71,6 +71,8 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 ## AIOps
 
 ### Training Pipeline
+
+[ASR-ngram correction]()
 
 ### FineTuning Pipelines
 
