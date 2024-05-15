@@ -38,17 +38,17 @@
 - [Transformer Node]()
 
 ### Domain and Task Models
-| Model/Task                | Inference   | Training / Fine-tuning     | 
-|-------------------------------|---------|---------------|
-| ASR                           | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/asr/fairseq_mms) |Not supported yet |
-| ASR - ngram correction               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |[Supported](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) | 
-| Translate  | [External service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_translation/azure/remote) | Not supported yet - only dictionary addition  | 
-| Spell check | [Self](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)| [Supported](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)  | 
-| Named Entity recognition               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/ner/agri_ner_akai)| [Supported](https://github.com/BharatSahAIyak/NER_training)  |
-| Embedding - Colbert       | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/colbert/local)| [Supported](https://github.com/BharatSahAIyak/colbert-finetune)  |
-| Embedding - OpenAI                         | [External Service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/openai)| -   | 
-| Reranker - bge                      | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/rerankers/bge_base/local)| Not Supported yet  | 
-| Classifier | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_classification) | [Supported](https://github.com/BharatSahAIyak/Classifier_training)  |
+| Model/Task                | Inference   |
+|-------------------------------|---------|
+| ASR                           | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/asr/fairseq_mms) |
+| ASR - ngram correction               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |
+| Translate  | [External service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_translation/azure/remote) | 
+| Spell check | [Self](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)| 
+| Named Entity recognition               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/ner/agri_ner_akai)| 
+| Embedding - Colbert       | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/colbert/local)| 
+| Embedding - OpenAI                         | [External Service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/openai)|
+| Reranker - bge                      | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/rerankers/bge_base/local)| 
+| Classifier | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_classification) | 
 
 ## Datasets
 
