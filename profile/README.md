@@ -42,10 +42,10 @@
 |-------------------------------|---------|
 | ASR                           | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/asr/fairseq_mms) |
 | ASR - ngram correction               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/spell_check/kenlm/local) |
-| Translate  | [External service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_translation/azure/remote) | 
+| Translate (Azure,GCP,Bhashini)  | [External service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_translation/) | 
 | Spell check | [Self](https://github.com/BharatSahAIyak/spellcheck/blob/dev/spellcheck/app.py)| 
 | Named Entity recognition               | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/ner/agri_ner_akai)| 
-| Embedding - Colbert       | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/colbert/local)| 
+| Embedding (self-hosted)     | [Colbert](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/colbert/local) , [bge](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/bge-small/local), [instructor](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/instructor)| 
 | Embedding - OpenAI                         | [External Service](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/embeddings/openai)|
 | Reranker - bge                      | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/rerankers/bge_base/local)| 
 | Classifier | [Self](https://github.com/BharatSahAIyak/ai-tools/tree/dev/src/text_classification) | 
