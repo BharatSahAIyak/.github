@@ -77,6 +77,7 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 [ASR-ngram correction]()
 
 ### FineTuning Pipelines
+- [Autotune](https://github.com/BharatSahAIyak/autotune)
 
 ### Chip / GPU / PaaS API
 
