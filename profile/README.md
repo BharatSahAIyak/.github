@@ -113,6 +113,5 @@ Semantic chunking | [MPNet](https://github.com/BharatSahAIyak/ai-tools/tree/dev/
 
 ### Chip / GPU / PaaS API
 
-- [Docker Installation](https://github.com/BharatSahAIyak/docker-bhasai)
-- [Infra Setup - Terraform](https://github.com/BharatSahAIyak/infra)
-- [GPU/CPU Split by the control plane](https://github.com/BharatSahAIyak/docker-bhasai/blob/dev/ai-tools/generate.sh) | [Config](https://github.com/BharatSahAIyak/ai-tools/blob/dev/config.json)
+- [Docker Compose Setup](https://github.com/BharatSahAIyak/devops)
+- [Kubernetes Setup](https://github.com/BharatSahAIyak/k8s)
